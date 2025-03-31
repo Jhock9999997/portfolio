@@ -2,122 +2,51 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# Welcome to My Portfolio
 
-[Link to another page](./another-page.html).
+A collection of projects showcasing my work in development and design.
 
-There should be whitespace between paragraphs.
+## About Me
+A passionate developer with experience in web development, software engineering, and problem-solving. Explore my projects below!
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+---
 
-# Header 1
+## Featured Projects
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### Project 1: [Project Name]
+**Description:** Briefly describe the project, its purpose, and technologies used.
 
-## Header 2
+**Technologies:** HTML, CSS, JavaScript, Python, etc.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+[View Project](#)  
+![Project Image](https://via.placeholder.com/600x300)
 
-### Header 3
+---
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### Project 2: [Project Name]
+**Description:** Briefly describe the project, its purpose, and technologies used.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+**Technologies:** Flask, Bootstrap, SQLAlchemy, etc.
 
-#### Header 4
+[View Project](#)  
+![Project Image](https://via.placeholder.com/600x300)
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+---
 
-##### Header 5
+### Project 3: [Project Name]
+**Description:** Briefly describe the project, its purpose, and technologies used.
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+**Technologies:** React, Node.js, MongoDB, etc.
 
-###### Header 6
+[View Project](#)  
+![Project Image](https://via.placeholder.com/600x300)
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+---
 
-### There's a horizontal rule below this.
+## Contact Me
+Feel free to connect with me for collaborations or inquiries!
 
-* * *
+📧 Email: your.email@example.com  
+💼 LinkedIn: [Your LinkedIn](#)  
+🐙 GitHub: [Your GitHub](#)
 
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
