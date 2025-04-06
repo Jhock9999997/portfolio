@@ -1,10 +1,7 @@
----
-layout: default
----
 
 # Project Highlights from University
 
-Here’s a quick overview of some of the practical and technical projects I completed during my postgraduate studies in cybersecurity and networking. These projects reflect my hands-on experience with network analysis, secure systems, fuzzing, and setting up development environments. I have created a separate repository for each one to display the project in more detail.
+Here’s a quick overview of some of the practical and technical projects I completed during my postgraduate studies in cybersecurity and networking. These projects reflect my hands-on experience with network analysis, secure systems, fuzzing, and setting up development environments. I have created a separate repository for each one to display the projects in more detail.
 
 ## About Me
 
@@ -27,8 +24,6 @@ This project focused on analyzing and mitigating network security threats by eva
 
 **Technologies:** `Wireshark` `ns-3` `Linux Networking`
 
-[View Project](#)
-
 ---
 
 ### Assignment 2: Research Report – Fuzzing TinyCC
@@ -40,12 +35,19 @@ In this project, I applied AFL (American Fuzzy Lop) to the Tiny C Compiler (TCC)
 - Optimized fuzzing environment and seed inputs for effective test coverage
 - Analyzed execution trends to maximize test case exploration
 
-**Technologies:** `AFL Fuzzing` `TinyCC` `Linux Debugging Tools`
-
-[View Project](#)
+**Technologies:** `AFL Fuzzing` & `Linux Debugging Tools`
 
 ---
 
 ### University Homelab Setup for Security Research and Development
 **Description:**  
-This project involves setting up a virtualized environment using Oracle VirtualBox to support university assignments related to security research, networking, and software testing. The homelab consists of multiple
+This project involves setting up a virtualized environment using Oracle VirtualBox to support university assignments related to security research, networking, and software testing. The homelab consists of multiple Ubuntu-based virtual machines configured for penetration testing, secure software development, and network analysis.
+
+Key Configurations:
+
+Primary VM (Ubuntu_2024): Main development environment with VirtualBox Guest Additions for improved performance.
+Isolated Test VMs (virtpc1-virtpc4): Dedicated instances for running security experiments, network simulations, and fuzz testing.
+Networking Setup: Combination of NAT and internal network adapters to simulate real-world network topologies.
+Resource Allocation: Optimized memory and CPU distribution for balanced performance.
+
+Technologies: VirtualBox Ubuntu Linux Networking Security Tools (AFL, GDB, Wireshark)
