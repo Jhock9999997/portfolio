@@ -14,7 +14,7 @@ A passionate developer and security researcher with experience in web developmen
 ## Featured Projects
 
 ### Analyzing TCP Behavior: Security Threats and Mitigation Strategies
-**Description:** This project focused on analyzing and mitigating network security threats by evaluating TCP connection behavior, identifying vulnerabilities, and proposing defensive measures. Using tools like Wireshark and ns-3, the study examines network traffic patterns, SYN flood attacks, and the impact of security implementations on performance.
+**Description:** This project focused on analyzing and mitigating network security threats by evaluating TCP connection behavior, identifying vulnerabilities, and proposing defensive measures. Using tools like Wireshark and ns-3, the study examined network traffic patterns, SYN flood attacks, and the impact of security implementations on performance.
 
 **Key Objectives:**
 - Identifying abnormal TCP behavior (e.g., SYN flood attacks)
