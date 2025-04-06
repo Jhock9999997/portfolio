@@ -2,12 +2,15 @@
 layout: default
 ---
 
-# Welcome to My Portfolio
+# Project Highlights from University
 
-A collection of projects showcasing my work in security research, development, and networking.
+Here’s a quick overview of some of the practical and technical projects I completed during my postgraduate studies in cybersecurity and networking. These projects reflect my hands-on experience with network analysis, secure systems, fuzzing, and setting up development environments. 🚀
 
 ## About Me
-A passionate developer and security researcher with experience in web development, software engineering, and network security. Explore my projects below! 👨‍💻🔐
+
+I’m a recent graduate from QUT with a Graduate Diploma in Cybersecurity and Networking, now based in the UK after relocating from Australia. I also hold a Bachelor's degree in Psychological Science and bring a unique human-centered perspective to the tech world. 🧠💻
+
+With a growing passion for IT and cyber, I’m eager to dive deeper into the field, contribute to real-world security challenges, and continue learning and evolving within the cybersecurity space.
 
 ---
 
@@ -57,11 +60,13 @@ A passionate developer and security researcher with experience in web developmen
 ---
 
 ## 📬 Contact Me
+
 Feel free to connect with me for collaborations or inquiries!
 
 📧 Email: your.email@example.com  
 💼 LinkedIn: [Your LinkedIn](#)  
 🐙 GitHub: [Your GitHub](#)
+
 
 
 
