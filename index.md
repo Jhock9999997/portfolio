@@ -62,7 +62,5 @@ This project involved setting up a virtualized environment using Oracle VirtualB
 
 Feel free to reach out for collaboration, questions, or just to connect.
 
-**Email:** your.email@example.com  
-**LinkedIn:** [linkedin.com/in/yourprofile](#)  
-**GitHub:** [github.com/yourusername](#)
+**Email:** Jeremy.Hockings97@gmail.com
 
