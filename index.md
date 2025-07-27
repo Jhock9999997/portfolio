@@ -1,12 +1,12 @@
 # Project Highlights from University
 
-Here’s a quick overview of some of the practical and technical projects I completed during my postgraduate studies in cybersecurity and networking. These projects reflect my hands-on experience with network analysis, secure systems, fuzzing, and setting up development environments. I have created a separate repository for each one to display the projects in more detail.
+Here’s a quick overview of some of the practical and technical projects I completed during my postgraduate studies in Cybersecurity and Networks. These projects reflect my hands-on experience with network analysis, secure systems, fuzzing, and setting up development environments. I have created a separate repository for each one to display the projects in more detail.
 
 ## About Me
 
-I’m a recent graduate from QUT with a Graduate Diploma in Cybersecurity and Networking, now based in the UK after relocating from Australia. I also hold a Bachelor's degree in Psychological Science and a CompTIA Security+ certificate.
+I’m a recent graduate from QUT with a Graduate Diploma in Cybersecurity and Networks, now based in the UK after relocating from Australia. I also hold a Bachelor's degree in Psychological Science and a CompTIA Security+ certificate.
 
-With a growing passion for IT and cybersecurity, I’m eager to dive deeper into the field, contribute to real-world security challenges, and continue learning and evolving within the cybersecurity space.
+With a growing passion for IT and Cybersecurity, I’m eager to dive deeper into the field, contribute to real-world security challenges, and continue learning and evolving within the Cybersecurity space.
 
 ---
 
